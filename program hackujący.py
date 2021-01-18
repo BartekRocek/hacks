@@ -1,5 +1,5 @@
 import random
-print("wpisz cztero literowy kod aby go zhakować:")
+print("wpisz cztero-literowy kod aby go zhakować:")
 hacks = random.randint(1000, 9000)
 number_input = input()
 number_input = int(number_input)
